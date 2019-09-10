@@ -53,7 +53,7 @@ function googleAnalyticsMiddleware(data) {
 }
 
 var unblockerConfig = {
-    prefix: '/search/',
+    prefix: '/yeet/',
     responseMiddleware: [
         googleAnalyticsMiddleware
     ]
