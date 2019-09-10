@@ -1,7 +1,7 @@
 User-agent: *
-Disallow: /search/http
-Disallow: /search/http:
-Disallow: /search/http:/
-Disallow: /search/https
-Disallow: /search/https:
-Disallow: /search/https:/
+Disallow: /yeet/http
+Disallow: /yeet/http:
+Disallow: /yeet/http:/
+Disallow: /yeet/https
+Disallow: /yeet/https:
+Disallow: /yeet/https:/
